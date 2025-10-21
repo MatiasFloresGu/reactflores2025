@@ -1,4 +1,4 @@
-import React from "react";
+
 
 export function Post_it({ postProps, eliminarPost }) {
     return (
